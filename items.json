@@ -1,0 +1,434 @@
+{
+  "categories": [
+    {
+      "name": "Fasteners and Hardware",
+      "subcategories": [
+        {
+          "name": "Screws",
+          "products": [
+            {
+              "id": 1,
+              "name": "Hex Head Screws",
+              "description": "High-quality hex head screws for various applications.",
+              "image": "hex_head_screws_1_fasteners_and_hardware.jpg",
+              "price": 0.99
+            },
+            {
+              "id": 2,
+              "name": "Assorted Nuts and Bolts",
+              "description": "A variety pack of nuts and bolts for different needs.",
+              "image": "link_to_image_2.jpg",
+              "price": 1.99
+            }
+          ]
+        },
+        {
+          "name": "Nuts and Bolts",
+          "products": [
+            {
+              "id": 3,
+              "name": "Stainless Steel Nuts",
+              "description": "Corrosion-resistant stainless steel nuts for industrial use.",
+              "image": "link_to_image_3.jpg",
+              "price": 2.49
+            },
+            {
+              "id": 4,
+              "name": "Heavy-Duty Bolts",
+              "description": "Durable heavy-duty bolts for construction projects.",
+              "image": "link_to_image_4.jpg",
+              "price": 3.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Material Handling",
+      "subcategories": [
+        {
+          "name": "Casters",
+          "products": [
+            {
+              "id": 5,
+              "name": "Heavy-Duty Casters",
+              "description": "Durable casters for easy material transport.",
+              "image": "link_to_image_5.jpg",
+              "price": 10.99
+            },
+            {
+              "id": 6,
+              "name": "Swivel Casters",
+              "description": "Swivel casters for improved maneuverability.",
+              "image": "link_to_image_6.jpg",
+              "price": 8.99
+            }
+          ]
+        },
+        {
+          "name": "Conveyors",
+          "products": [
+            {
+              "id": 7,
+              "name": "Roller Conveyors",
+              "description": "Efficient roller conveyors for industrial use.",
+              "image": "link_to_image_7.jpg",
+              "price": 29.99
+            },
+            {
+              "id": 8,
+              "name": "Belt Conveyors",
+              "description": "Belt conveyors for smooth material transport.",
+              "image": "link_to_image_8.jpg",
+              "price": 39.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plumbing and Pipe Fittings",
+      "subcategories": [
+        {
+          "name": "Pipes",
+          "products": [
+            {
+              "id": 9,
+              "name": "PVC Pipes",
+              "description": "Durable PVC pipes for plumbing applications.",
+              "image": "link_to_image_9.jpg",
+              "price": 5.99
+            },
+            {
+              "id": 10,
+              "name": "Copper Pipes",
+              "description": "High-quality copper pipes for residential plumbing.",
+              "image": "link_to_image_10.jpg",
+              "price": 8.99
+            }
+          ]
+        },
+        {
+          "name": "Fittings",
+          "products": [
+            {
+              "id": 11,
+              "name": "Brass Fittings",
+              "description": "Corrosion-resistant brass fittings for various plumbing applications.",
+              "image": "link_to_image_11.jpg",
+              "price": 3.49
+            },
+            {
+              "id": 12,
+              "name": "Steel Pipe Elbows",
+              "description": "Steel pipe elbows for connecting pipes at angles.",
+              "image": "link_to_image_12.jpg",
+              "price": 2.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Power Transmission",
+      "subcategories": [
+        {
+          "name": "Belts",
+          "products": [
+            {
+              "id": 13,
+              "name": "V-Belts",
+              "description": "High-strength V-belts for power transmission systems.",
+              "image": "link_to_image_13.jpg",
+              "price": 6.99
+            },
+            {
+              "id": 14,
+              "name": "Timing Belts",
+              "description": "Precision timing belts for accurate power transmission.",
+              "image": "link_to_image_14.jpg",
+              "price": 9.99
+            }
+          ]
+        },
+        {
+          "name": "Chains",
+          "products": [
+            {
+              "id": 15,
+              "name": "Roller Chains",
+              "description": "Roller chains for industrial machinery.",
+              "image": "link_to_image_15.jpg",
+              "price": 12.99
+            },
+            {
+              "id": 16,
+              "name": "Stainless Steel Chains",
+              "description": "Corrosion-resistant stainless steel chains.",
+              "image": "link_to_image_16.jpg",
+              "price": 15.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Raw Materials",
+      "subcategories": [
+        {
+          "name": "Metals",
+          "products": [
+            {
+              "id": 17,
+              "name": "Aluminum Sheets",
+              "description": "Durable aluminum sheets for various applications.",
+              "image": "link_to_image_17.jpg",
+              "price": 7.99
+            },
+            {
+              "id": 18,
+              "name": "Steel Rods",
+              "description": "High-quality steel rods for construction projects.",
+              "image": "link_to_image_18.jpg",
+              "price": 11.99
+            }
+          ]
+        },
+        {
+          "name": "Plastics",
+          "products": [
+            {
+              "id": 19,
+              "name": "HDPE Sheets",
+              "description": "High-density polyethylene sheets for plastic fabrication.",
+              "image": "link_to_image_19.jpg",
+              "price": 4.99
+            },
+            {
+              "id": 20,
+              "name": "Acrylic Rods",
+              "description": "Transparent acrylic rods for various applications.",
+              "image": "link_to_image_20.jpg",
+              "price": 8.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "subcategories": [
+        {
+          "name": "Hand Tools",
+          "products": [
+            {
+              "id": 21,
+              "name": "Screwdriver Set",
+              "description": "Comprehensive screwdriver set for various tasks.",
+              "image": "link_to_image_21.jpg",
+              "price": 14.99
+            },
+            {
+              "id": 22,
+              "name": "Wrench Kit",
+              "description": "Versatile wrench kit for different applications.",
+              "image": "link_to_image_22.jpg",
+              "price": 18.99
+            }
+          ]
+        },
+        {
+          "name": "Power Tools",
+          "products": [
+            {
+              "id": 23,
+              "name": "Cordless Drill",
+              "description": "High-performance cordless drill for DIY projects.",
+              "image": "link_to_image_23.jpg",
+              "price": 49.99
+            },
+            {
+              "id": 24,
+              "name": "Circular Saw",
+              "description": "Precision circular saw for woodworking.",
+              "image": "link_to_image_24.jpg",
+              "price": 69.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Safety and PPE",
+      "subcategories": [
+        {
+          "name": "Safety Glasses",
+          "products": [
+            {
+              "id": 25,
+              "name": "Anti-Fog Safety Glasses",
+              "description": "Anti-fog safety glasses for clear vision in any environment.",
+              "image": "link_to_image_25.jpg",
+              "price": 5.99
+            },
+            {
+              "id": 26,
+              "name": "Wraparound Safety Glasses",
+              "description": "Wraparound safety glasses for full eye protection.",
+              "image": "link_to_image_26.jpg",
+              "price": 8.99
+            }
+          ]
+        },
+        {
+          "name": "Gloves",
+          "products": [
+            {
+              "id": 27,
+              "name": "Heavy-Duty Work Gloves",
+              "description": "Heavy-duty work gloves for hand protection in demanding tasks.",
+              "image": "link_to_image_27.jpg",
+              "price": 12.99
+            },
+            {
+              "id": 28,
+              "name": "Nitrile Gloves",
+              "description": "Disposable nitrile gloves for various applications.",
+              "image": "link_to_image_28.jpg",
+              "price": 9.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electrical and Lighting",
+      "subcategories": [
+        {
+          "name": "Wiring",
+          "products": [
+            {
+              "id": 29,
+              "name": "Electrical Wire Spool",
+              "description": "Spool of electrical wire for wiring projects.",
+              "image": "link_to_image_29.jpg",
+              "price": 6.99
+            },
+            {
+              "id": 30,
+              "name": "Extension Cord",
+              "description": "Heavy-duty extension cord for various applications.",
+              "image": "link_to_image_30.jpg",
+              "price": 11.99
+            }
+          ]
+        },
+        {
+          "name": "Lighting",
+          "products": [
+            {
+              "id": 31,
+              "name": "LED Bulbs",
+              "description": "Energy-efficient LED bulbs for lighting fixtures.",
+              "image": "link_to_image_31.jpg",
+              "price": 3.99
+            },
+            {
+              "id": 32,
+              "name": "Fluorescent Tube Lights",
+              "description": "Fluorescent tube lights for commercial and residential lighting.",
+              "image": "link_to_image_32.jpg",
+              "price": 7.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adhesives and Sealants",
+      "subcategories": [
+        {
+          "name": "Glues",
+          "products": [
+            {
+              "id": 33,
+              "name": "Super Glue",
+              "description": "Fast-curing super glue for bonding various materials.",
+              "image": "link_to_image_33.jpg",
+              "price": 2.99
+            },
+            {
+              "id": 34,
+              "name": "Epoxy Adhesive",
+              "description": "Strong epoxy adhesive for durable bonds.",
+              "image": "link_to_image_34.jpg",
+              "price": 5.99
+            }
+          ]
+        },
+        {
+          "name": "Tapes",
+          "products": [
+            {
+              "id": 35,
+              "name": "Duct Tape",
+              "description": "Versatile duct tape for temporary repairs and fixes.",
+              "image": "link_to_image_35.jpg",
+              "price": 1.99
+            },
+            {
+              "id": 36,
+              "name": "Double-Sided Tape",
+              "description": "Double-sided tape for secure and discreet mounting.",
+              "image": "link_to_image_36.jpg",
+              "price": 3.49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Janitorial and Maintenance Supplies",
+      "subcategories": [
+        {
+          "name": "Cleaning Products",
+          "products": [
+            {
+              "id": 37,
+              "name": "All-Purpose Cleaner",
+              "description": "Effective all-purpose cleaner for various surfaces.",
+              "image": "link_to_image_37.jpg",
+              "price": 4.99
+            },
+            {
+              "id": 38,
+              "name": "Disinfectant Wipes",
+              "description": "Disinfectant wipes for quick and easy cleaning.",
+              "image": "link_to_image_38.jpg",
+              "price": 3.99
+            }
+          ]
+        },
+        {
+          "name": "Lubricants",
+          "products": [
+            {
+              "id": 39,
+              "name": "Silicone Lubricant Spray",
+              "description": "Silicone lubricant spray for smooth and lasting lubrication.",
+              "image": "link_to_image_39.jpg",
+              "price": 6.99
+            },
+            {
+              "id": 40,
+              "name": "Penetrating Oil",
+              "description": "Penetrating oil for loosening rusted or stuck parts.",
+              "image": "link_to_image_40.jpg",
+              "price": 5.49
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

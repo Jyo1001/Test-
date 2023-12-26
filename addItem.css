@@ -1,0 +1,25 @@
+/* Add your existing styles here */
+
+/* Additional styles for existing items */
+#existingItems {
+  margin-top: 20px;
+}
+
+#existingItems section {
+  margin-bottom: 20px;
+}
+
+#existingItems h2 {
+  color: #333;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#existingItems ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#existingItems li {
+  margin-bottom: 5px;
+}

@@ -1,0 +1,76 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+header {
+  background-color: #09c4be;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+
+/* Main Content styles */
+main {
+  display: flex; /* Use flexbox to arrange the left and right sections */
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+/* Left Section styles */
+.left-section {
+  flex: 1; /* Take up 1/3rd of the available width */
+  padding-right: 20px;
+}
+
+.left-section h2 {
+  margin-bottom: 10px;
+}
+
+/* Right Section styles */
+.right-section {
+  flex: 2; /* Take up 2/3rd of the available width */
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
+
+/* Add more styling as needed */
+.left-section button {
+  display: block;
+  margin-bottom: 10px;
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer; 
+  background-color: #ddd; /* Default background color */
+  transition: background-color 0.3s ease; /* Smooth transition effect */
+}
+
+  .left-section button:hover {
+    background-color: #bbb; /* Change background color on hover */
+  }
+
+  /* Active effect */
+.left-section button:active {
+  background-color: #9e0f0f; /* Change background color when clicked */
+}
+
+  .right-section{
+
+    background-color: rgb(255, 255, 255);
+  }
+
+ 

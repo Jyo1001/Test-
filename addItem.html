@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="addItem.css">
+    <title>Add New Items - hardwarestore.com</title>
+</head>
+
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Add New Items</h1>
+        <!-- Add navigation links if needed -->
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+        <!-- Form for adding new items -->
+        <form id="addItemForm">
+            <!-- Input fields for item details -->
+            <!-- Example: Name, Description, Image URL, Price, etc. -->
+            <label for="itemName">Item Name:</label>
+            <input type="text" id="itemName" name="itemName" required>
+
+            <label for="itemDescription">Item Description:</label>
+            <textarea id="itemDescription" name="itemDescription" required></textarea>
+
+            <label for="itemImage">Image URL:</label>
+            <input type="text" id="itemImage" name="itemImage" required>
+
+            <label for="itemPrice">Item Price:</label>
+            <input type="number" id="itemPrice" name="itemPrice" step="0.01" required>
+
+            <!-- Dropdown for selecting category and subcategory -->
+            <label for="itemCategory">Category:</label>
+            <select id="itemCategory" name="itemCategory" required>
+                <!-- Options for categories will be dynamically added here -->
+            </select>
+
+            <label for="itemSubcategory">Subcategory:</label>
+            <select id="itemSubcategory" name="itemSubcategory" required>
+                <!-- Options for subcategories will be dynamically added here -->
+            </select>
+
+            <!-- Submit button -->
+            <button type="submit">Add Item</button>
+        </form>
+
+        <div id="existingItems">
+            <!-- Items will be dynamically added here -->
+        </div>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2023 Your Website Name. All rights reserved.</p>
+    </footer>
+
+    <script src="addItem.js" defer></script>
+</body>
+
+</html>
